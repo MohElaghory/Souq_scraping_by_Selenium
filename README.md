@@ -5,11 +5,11 @@
 * 1414 row : every row refer to one phone.
 
 
-![This is an image](https://github.com/ahmedazab1235/Souq_scraping_by_Selenium/blob/main/Screen%20Shot%202021-06-28%20at%208.06.43%20AM.png)
+![image](https://user-images.githubusercontent.com/44786324/167232475-6f9037c0-2d57-450c-871f-167be59a0991.png)
 
 
 ## and this is screenshot for the csv file
 
-![This is an image](https://github.com/ahmedazab1235/Souq_scraping_by_Selenium/blob/main/Screen%20Shot%202021-06-28%20at%208.05.17%20AM.png)
+![image](https://user-images.githubusercontent.com/44786324/167232500-3ecd319c-6c6c-40b1-86d2-f7116a7cea2e.png)
 
 
